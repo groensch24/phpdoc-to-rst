@@ -1,5 +1,5 @@
 {
-    "name": "juliushaertl/phpdoc-to-rst",
+    "name": "groensch24/phpdoc-to-rst",
     "description": "Generate Sphinx/ReStructured documentation from PHPDoc",
     "type": "library",
     "require": {
